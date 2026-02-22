@@ -1,6 +1,7 @@
 # Canon_R50V_SmallRig_Cage_Grip_Improvement
 This 3d-printable grip replaces the tiny grip from the SmallRig R50V cage with a bigger, more ergonomic grip. This way the camera can be held securely in one hand with one finger on the shutter-release button.
 ![Assembled grip](https://github.com/AnselmSeeholzer/Canon_R50V_Smallrig_Cage_Grip_Improvement/blob/main/pictures_renders/1.jpg?raw=true)
+
 <img src="https://github.com/AnselmSeeholzer/Canon_R50V_Smallrig_Cage_Grip_Improvement/blob/main/pictures_renders/3.jpg?raw=true" height="500"/> <img src="https://github.com/AnselmSeeholzer/Canon_R50V_Smallrig_Cage_Grip_Improvement/blob/main/pictures_renders/4.jpg?raw=true" height="500"/>
 
 <img src="https://github.com/AnselmSeeholzer/Canon_R50V_Smallrig_Cage_Grip_Improvement/blob/main/pictures_renders/Render1.png?raw=true" height="300"/> <img src="https://github.com/AnselmSeeholzer/Canon_R50V_Smallrig_Cage_Grip_Improvement/blob/main/pictures_renders/Render2.png?raw=true" height="300"/>
